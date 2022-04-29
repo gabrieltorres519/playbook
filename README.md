@@ -1,6 +1,6 @@
 # ¡Todos mis commits se encuentran el la rama Master!
 
-[Rama Mater](https://github.com/gabrieltorres519/playbook/tree/master)
+[Rama Master](https://github.com/gabrieltorres519/playbook/tree/master)
 
 # Launch X Node JS Playbook 🚀 de @gabrieltorres519 
 
