@@ -136,6 +136,7 @@ explorers.forEach(exp => {
   
 });
 
+//const explorers_with_js = explorers.filter(my_explorer_in_list => my_explorer_in_list.stack.includes("js")); // Forma más sencilla
  
 
 // 5 Busca el primer explorer que sea de la CDMX, usa FIND
